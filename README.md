@@ -1,0 +1,2 @@
+# legentai-privacy
+privacy file
